@@ -35,10 +35,6 @@ img {
 	font-weight: 400;
 }
 
-.raiting {
-	color: blue;
-}
-
 .rated {
 	width: 80%;
 	background-color: hsl(300, 24%, 96%);
@@ -90,10 +86,6 @@ img {
 .test-3 {
 	position: relative;
 	top: 3rem;
-}
-
-.testimonial-top {
-	margin-bottom: 1%;
 }
 
 .testimonial-img {
